@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Student Tracker</string>
+    <string name="main_title">Welcome!</string>
+    <string name="term">term</string>
+    <string name="Terms">   Terms</string>
+    <string name="term_name">Term Name</string>
+    <string name="term_start_date">Start Date</string>
+    <string name="term_end_date">End Date</string>
+    <string name="term_details">Term Details</string>
+    <string name="Courses">Courses</string>
+    <string name="Assessments">Assessments</string>
+    <string name="Assessment_Details">Assessment Details</string>
+    <string name="course_details">Course Details</string>
+    <string name="course_title">Course Title</string>
+    <string name="course_start_date">Start Date</string>
+    <string name="course_end_date">End Date</string>
+    <string name="status">Status</string>
+    <string name="ci_information">Course Instructor Information</string>
+    <string name="ci_name">Name</string>
+    <string name="ci_phone">Phone</string>
+    <string name="ci_email">Email</string>
+    <string name="assessment_type">Assessment Type</string>
+    <string name="assessment_start">Start Date</string>
+    <string name="end_date">End Date</string>
+    <string name="assessment_end">End Date</string>
+    <string name="notes">Notes</string>
+    <string name="add">Add +</string>
+    <string name="enter_notes">Enter Notes:</string>
+    <string name="name">Name</string>
+    <string name="channel_name">channelname</string>
+    <string name="channel_description">channeldescription</string>
+    <string name="confirm">Confirm</string>
+    <string name="notifications">Notifications</string>
+    <string name="date">Date</string>
+    <string-array name="arrayStatus">
+        <item>in progress</item>
+        <item>completed</item>
+        <item>dropped</item>
+        <item>plan to take</item>
+    </string-array>
+    <string-array name="arrayType">
+        <item>performance</item>
+        <item>objective</item>
+    </string-array>
+    <string-array name="arrayAlert">
+        <item>starting</item>
+        <item>ending</item>
+    </string-array>
+</resources>
